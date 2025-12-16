@@ -28,6 +28,23 @@ We design a novel self-training framework that pseudo-labels unannotated events 
   <img src="./assets/LEOD.png" width="800">
 </p>
 
+## 📚 中文文档 / Chinese Documentation
+
+**完整的中文文档现已提供！** 包含论文方法详解、代码映射分析、实验复现指南等。
+
+**Comprehensive Chinese documentation is now available!** Including detailed paper analysis, code mapping, and reproduction guides.
+
+👉 **[开始阅读中文文档 / Start Reading Chinese Docs](./docs/README_CN.md)**
+
+### 中文文档列表 / Chinese Document List
+
+- 📖 [LEOD论文代码映射分析](./docs/LEOD论文代码映射分析.md) - 最核心的分析文档
+- 🚀 [复现指南](./docs/复现指南.md) - 快速实验复现步骤
+- 🔍 [代码注释_伪标签生成器](./docs/代码注释_伪标签生成器.md) - 伪标签模块详解
+- 🧠 [代码注释_循环主干网络](./docs/代码注释_循环主干网络.md) - Recurrent backbone详解
+
+---
+
 ## Install
 
 This codebase builds upon [RVT](https://github.com/uzh-rpg/RVT).
@@ -63,3 +80,4 @@ LEOD is released under the MIT License. See the LICENSE file for more details.
 ## Contact
 
 If you have any questions about the code, please contact Ziyi Wu dazitu616@gmail.com
+
