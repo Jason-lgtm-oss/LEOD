@@ -28,6 +28,12 @@ We design a novel self-training framework that pseudo-labels unannotated events 
   <img src="./assets/LEOD.png" width="800">
 </p>
 
+## Documentation
+
+- **[Architecture Guide](./docs/ARCHITECTURE.md)** - Complete code architecture and implementation guide
+- **[Installation Guide](./docs/install.md)** - Environment setup and dependencies
+- **[Benchmark Guide](./docs/benchmark.md)** - Training recipes and reproducibility
+
 ## Install
 
 This codebase builds upon [RVT](https://github.com/uzh-rpg/RVT).
