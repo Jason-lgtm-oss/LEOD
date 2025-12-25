@@ -33,6 +33,13 @@ We design a novel self-training framework that pseudo-labels unannotated events 
 This codebase builds upon [RVT](https://github.com/uzh-rpg/RVT).
 Please refer to [install.md](./docs/install.md) for detailed instructions.
 
+## Documentation
+
+- [Installation Guide](docs/install.md)
+- [Benchmark and Reproduction](docs/benchmark.md)
+- [Architecture Documentation (English)](docs/benchmark.md) - Coming soon
+- [架构文档 (中文)](docs/ARCHITECTURE_ZH.md) - 完整的技术架构和实现细节
+
 ## Experiments
 
 **This codebase is tailored to [Slurm](https://slurm.schedmd.com/documentation.html) GPU clusters with preemption mechanism.**
